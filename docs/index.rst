@@ -9,8 +9,10 @@ Welcome to Experiences with the Django tutorial, at Hackbright (March 2014)'s do
 Contents:
 
 .. toctree::
+   :glob:
    :maxdepth: 2
 
+   *
 
 
 Indices and tables
