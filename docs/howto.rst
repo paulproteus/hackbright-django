@@ -55,6 +55,8 @@ Steps (via GitHub web editor)
 Things to know about how this works
 -----------------------------------
 
+* Remember, the purpose of your document is to provide useful feedback to the Django documentation team. Therefore, share anything that seems relevant. Things to consider writing about: parts of the tutorial you liked, parts that were unclear, how long each section took you, what your background is, and so on.
+
 * index.rst has a "glob" parameter, so any files are automatically included.
 
 * The choice of ``====`` and ``----`` doesn't actually matter, but you have to be consistent. See http://sphinx-doc.org/rest.html#sections for more information.
