@@ -49,7 +49,7 @@ Steps (via GitHub web editor)
 
 * Click **Propose new file**, and GitHub will create your pull request!
 
-* When Becka merges it, it will eventually show up on hackbright-django-docs.rtfd.org.
+* When Becka merges it, it will eventually show up on http://hackbright-django-docs.rtfd.org.
 
 
 Things to know about how this works
